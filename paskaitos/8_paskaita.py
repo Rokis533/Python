@@ -56,7 +56,6 @@
 
 # sarasas = [ int, int, Bool, str, float ]
 # sarasas = [ 1, 5, True, "Rokas", 2.3 ]
-
 # sarasas_tik_skaiciai = [type(x) is int for x in sarasas ]
 # print(sarasas)
 # print(sarasas_tik_skaiciai)
